@@ -7,21 +7,7 @@
 // console.log(skill)
 
 
-// interface Employee{
-//     id:number;
-//     Name:string;
-//     email?:string;
-//     department:string;
-// }
 
-// const employee: Employee = {
-//   id: 1,
-//   Name: "Ravi",
-//   email:"surya@gmail.com",
-//   department: "IT",
-// };
-
-// console.log(employee)
 
 
 const names:string="Surya";
